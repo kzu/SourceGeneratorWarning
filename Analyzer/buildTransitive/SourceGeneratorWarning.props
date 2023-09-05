@@ -1,0 +1,7 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <PropertyGroup>
+    <WarningsNotAsErrors>$(WarningsNotAsErrors);LIB001;LIB002;LIB003;LIB004;LIB005</WarningsNotAsErrors>
+  </PropertyGroup>
+
+</Project>
