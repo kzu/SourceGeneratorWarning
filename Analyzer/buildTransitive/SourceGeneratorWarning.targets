@@ -8,7 +8,6 @@
   <ItemGroup>
     <!-- This makes it visible to the generator -->
     <CompilerVisibleProperty Include="SponsorableLibSponsorable" />
-    <CompilerVisibleProperty Include="DesignTimeBuild" />
   </ItemGroup>
 
 </Project>
